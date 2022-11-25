@@ -1,0 +1,18 @@
+{
+  "hello-world": {
+    "component": "HelloWorld"
+  },
+  "query-example": {
+    "component": "QueryExample"
+  },
+  "discount": {
+    "component": "Discount"
+  },
+  "calculator": {
+    "component": "Calculator"
+  },
+  "custom-shelf": {
+    "component": "Shelf"
+  }
+}
+
